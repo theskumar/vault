@@ -129,5 +129,8 @@ table th:first-child, table td:first-child {
 @media (max-width: 800px) {
   body { font-size: 14px; }
   .sub { margin: none; width: auto; }
+  .github-ribbon {
+    display: none;
+  }
 }
 
