@@ -1,4 +1,4 @@
-# vault [<img src="https://secure.travis-ci.org/jcoglan/vault.png" />](http://travis-ci.org/jcoglan/vault)
+# vault [<img src="https://secure.travis-ci.org/theskumar/vault.png" />](http://travis-ci.org/theskumar/vault)
 
 Simple password generator. Given a passphrase and the name of a service, returns
 a strong password for that service. You only need to remember your passphrase,
